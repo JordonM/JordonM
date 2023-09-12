@@ -1,16 +1,23 @@
-### Hi there 👋
+### Welcome 👋
+Hello! My name is Jordon Meril and I am a St.Lucian-American living in New York City.
 
-<!--
-**JordonM/JordonM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my Software Engineering Certification from General Assembly
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning    
+      PostgreSQL    
+      JavaScript
+      Python    
+      EJS
+      Django
+      MongooseDB
+      HTML5
+      Node.JS
+      Bootstrap
+      
+- 💬 About Me: I am 22 years old, born in Boca Raton, Florida and love to spend time infront of a computer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📫 Reach Me: 
+   - Linkedin: www.linkedin.com/in/jordon-meril
+   - Email: jordonmeril9@gmail.com
+
